@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GADE_2B_1",
+			"Path": "..\\Source\\GADE_2B_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GADE_2B_1Editor",
+			"Path": "..\\Source\\GADE_2B_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
