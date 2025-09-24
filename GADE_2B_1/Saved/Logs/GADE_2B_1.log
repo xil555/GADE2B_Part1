@@ -3363,3 +3363,196 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-19.09.16:330][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.22-19.09.16:330][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3565.477295, Update Interval: 332.223877
 [2025.09.22-19.11.39:730][172]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.22-19.12.25:645][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.22-19.12.25:654][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-19.12.25:732][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/9/UF/IGQ208CWPYLAIFX13G1I7J
+[2025.09.22-19.12.25:734][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/IGQ208CWPYLAIFX13G1I7J990C23D44E418DA6D714A9B0BED98940.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/9/UF/IGQ208CWPYLAIFX13G1I7J.uasset'
+[2025.09.22-19.12.25:740][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/1/IQ/V5LOWLHJ3I2834NZXEBH1Y
+[2025.09.22-19.12.25:741][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/V5LOWLHJ3I2834NZXEBH1Y58E46A3D4A36B89F7C7A788EF4FE1E44.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/1/IQ/V5LOWLHJ3I2834NZXEBH1Y.uasset'
+[2025.09.22-19.12.25:745][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/C/D5/MT3HB3R8HO4TVGUUMYDYI5
+[2025.09.22-19.12.25:747][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/MT3HB3R8HO4TVGUUMYDYI52AA5CAFF41360A01B07C90956617B4FE.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/C/D5/MT3HB3R8HO4TVGUUMYDYI5.uasset'
+[2025.09.22-19.12.25:752][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/3/7N/7TSPUD0MJFJ51IEAO152QE
+[2025.09.22-19.12.25:753][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/7TSPUD0MJFJ51IEAO152QE892C3434484EAB7D42D464BFB69AE9E7.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/3/7N/7TSPUD0MJFJ51IEAO152QE.uasset'
+[2025.09.22-19.12.25:762][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/C/D6/5N623XURBYBB9F4GKPXTFL
+[2025.09.22-19.12.25:763][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/5N623XURBYBB9F4GKPXTFLBD420D5B4C4C44708A3397A5E0E572BD.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/C/D6/5N623XURBYBB9F4GKPXTFL.uasset'
+[2025.09.22-19.12.25:769][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/C/M2/VATJBO1A4X5IX2ARNU6UK5
+[2025.09.22-19.12.25:770][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/VATJBO1A4X5IX2ARNU6UK5B08BE2FA48645F2BF3F8B89EA894F1A5.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/C/M2/VATJBO1A4X5IX2ARNU6UK5.uasset'
+[2025.09.22-19.12.25:774][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/D/74/1ANEKFF7A513FG8WCDSKM9
+[2025.09.22-19.12.25:775][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/1ANEKFF7A513FG8WCDSKM954812B74466E4E0D7772AC92FEAF28E5.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/D/74/1ANEKFF7A513FG8WCDSKM9.uasset'
+[2025.09.22-19.12.25:783][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/B/9O/FQLL9ECIF4N5ND0U8L9COL
+[2025.09.22-19.12.25:784][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/FQLL9ECIF4N5ND0U8L9COLCB768EA84EE5DEADBCA78E9E8375DC96.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/B/9O/FQLL9ECIF4N5ND0U8L9COL.uasset'
+[2025.09.22-19.12.25:787][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/B/SV/B5S6EYQEULQ09WDNYVS1V7
+[2025.09.22-19.12.25:789][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/B5S6EYQEULQ09WDNYVS1V7065AA3E24A0DDD32CAF54E8957A17063.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/B/SV/B5S6EYQEULQ09WDNYVS1V7.uasset'
+[2025.09.22-19.12.25:794][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/9/NR/NVXS7QID7FIFFAO7IIQIGY
+[2025.09.22-19.12.25:795][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/NVXS7QID7FIFFAO7IIQIGYBD75F1CA4D1EF51D9236FB88EFEF643C.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/9/NR/NVXS7QID7FIFFAO7IIQIGY.uasset'
+[2025.09.22-19.12.25:798][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/E/VV/EVJSDSMXHPBNXKXCG2HMEQ
+[2025.09.22-19.12.25:811][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/EVJSDSMXHPBNXKXCG2HMEQ1073D93B4CDA55F437FE4983B4A4BD9C.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/E/VV/EVJSDSMXHPBNXKXCG2HMEQ.uasset'
+[2025.09.22-19.12.25:815][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/7/ZH/94L7W48J0WLUFGEME3URI2
+[2025.09.22-19.12.25:815][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/94L7W48J0WLUFGEME3URI2728AC95A4B69D1EB39E6C696F9DC6FB1.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/7/ZH/94L7W48J0WLUFGEME3URI2.uasset'
+[2025.09.22-19.12.25:820][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/6/7E/ZHU6RBQ8MMFXEZHQSRU6RX
+[2025.09.22-19.12.25:820][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/ZHU6RBQ8MMFXEZHQSRU6RX24332FBB41007BBB37C1CB85A2D3B36D.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/6/7E/ZHU6RBQ8MMFXEZHQSRU6RX.uasset'
+[2025.09.22-19.12.25:824][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/6/UG/AQCCRI2ZO7Y5Z02UAN6A62
+[2025.09.22-19.12.25:824][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/AQCCRI2ZO7Y5Z02UAN6A62EBF7910A4F36B14CF9BE1D82D7DDAD64.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/6/UG/AQCCRI2ZO7Y5Z02UAN6A62.uasset'
+[2025.09.22-19.12.25:828][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/2/CQ/W5V2JRA0YTTFG1B22CL2XU
+[2025.09.22-19.12.25:829][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/W5V2JRA0YTTFG1B22CL2XU42193F344B56A5F4D0DAC7AC60DD3321.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/2/CQ/W5V2JRA0YTTFG1B22CL2XU.uasset'
+[2025.09.22-19.12.25:833][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/B/8H/8LJ7G99N9K1E8G3IZUIXVG
+[2025.09.22-19.12.25:833][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/8LJ7G99N9K1E8G3IZUIXVG13EDF8744348F2E48F0E4387E73C77FF.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/B/8H/8LJ7G99N9K1E8G3IZUIXVG.uasset'
+[2025.09.22-19.12.25:838][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/0/A8/VSANNOVAAAV9GEIEVQGZ4A
+[2025.09.22-19.12.25:838][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/VSANNOVAAAV9GEIEVQGZ4A3B15AC59453E21BB8A3A2986C018FF83.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/0/A8/VSANNOVAAAV9GEIEVQGZ4A.uasset'
+[2025.09.22-19.12.25:843][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/5/8L/BYLSVNPEFEILEEBFS5T7FE
+[2025.09.22-19.12.25:843][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/BYLSVNPEFEILEEBFS5T7FEFD6917A44796BA99FD7F0B840CB73657.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/5/8L/BYLSVNPEFEILEEBFS5T7FE.uasset'
+[2025.09.22-19.12.25:848][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/9/KF/9RNCMNWYYCUS8NT15KD2CY
+[2025.09.22-19.12.25:848][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/9RNCMNWYYCUS8NT15KD2CY9C937C464F5D00C051AC3D86DDA58528.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/9/KF/9RNCMNWYYCUS8NT15KD2CY.uasset'
+[2025.09.22-19.12.25:852][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/8/QR/1OGHU7IJ67XSME2H99LZFF
+[2025.09.22-19.12.25:852][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/1OGHU7IJ67XSME2H99LZFFD35362364B9A63311A4374810E393C7A.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/8/QR/1OGHU7IJ67XSME2H99LZFF.uasset'
+[2025.09.22-19.12.25:857][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/6/TZ/RXRPLQO7UI1W363EGTK1FU
+[2025.09.22-19.12.25:857][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/RXRPLQO7UI1W363EGTK1FUB7E88DD84FC72AC5F63C2F8C34EE458B.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/6/TZ/RXRPLQO7UI1W363EGTK1FU.uasset'
+[2025.09.22-19.12.25:861][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/5/EP/LGLDR10UFXKZZIMKNA6ZC8
+[2025.09.22-19.12.25:862][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/LGLDR10UFXKZZIMKNA6ZC833FB9B6B46FAF0B58F4766B2FB605C8E.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/5/EP/LGLDR10UFXKZZIMKNA6ZC8.uasset'
+[2025.09.22-19.12.25:866][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/3/Z5/EK59OTN0BVITCZUJ0UO8AJ
+[2025.09.22-19.12.25:866][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/EK59OTN0BVITCZUJ0UO8AJ98FE35E041A0B2B3580513AE6DB7A804.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/3/Z5/EK59OTN0BVITCZUJ0UO8AJ.uasset'
+[2025.09.22-19.12.25:871][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/9/J6/PHU22U7GGYUC14R6K6VHG7
+[2025.09.22-19.12.25:871][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/PHU22U7GGYUC14R6K6VHG79934026D4C5E83FCC3B06EBC3B0296A1.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/9/J6/PHU22U7GGYUC14R6K6VHG7.uasset'
+[2025.09.22-19.12.25:876][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/6/Y0/JA1C4BEK17Y0MRS927YLBW
+[2025.09.22-19.12.25:876][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/JA1C4BEK17Y0MRS927YLBW3BB5CB8D4694EBACCECDC199A60FD5BE.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/6/Y0/JA1C4BEK17Y0MRS927YLBW.uasset'
+[2025.09.22-19.12.25:880][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/2/IT/7PFHZH76IDJ5LMMTCMAJDF
+[2025.09.22-19.12.25:880][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/7PFHZH76IDJ5LMMTCMAJDFFB7120F74F27C273DBA7839D5F636292.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/2/IT/7PFHZH76IDJ5LMMTCMAJDF.uasset'
+[2025.09.22-19.12.25:886][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/2/IS/C94QS6LMUMLG46VVCBVOHX
+[2025.09.22-19.12.25:886][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/C94QS6LMUMLG46VVCBVOHXA3885DB1484F32C33EAEB6A20816D219.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/2/IS/C94QS6LMUMLG46VVCBVOHX.uasset'
+[2025.09.22-19.12.25:889][456]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game_World/3/NQ/5963CZ08HJZEBPPDJLLEYN
+[2025.09.22-19.12.25:890][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/5963CZ08HJZEBPPDJLLEYNFC02779344472D4311633095AAAB7A13.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/3/NQ/5963CZ08HJZEBPPDJLLEYN.uasset'
+[2025.09.22-19.12.25:893][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/metal_texture_Mat] ([1] browsable assets)...
+[2025.09.22-19.12.25:893][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/metal_texture_Mat]
+[2025.09.22-19.12.25:893][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/metal_texture_Mat" FILE="../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/metal_texture_Mat.uasset" SILENT=true
+[2025.09.22-19.12.25:895][456]LogSavePackage: Moving output files for package: /Game/metal_texture_Mat
+[2025.09.22-19.12.25:895][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/metal_texture_Mat05066F654E74BA0E695090B52851EB62.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/metal_texture_Mat.uasset'
+[2025.09.22-19.12.25:904][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Screenshot_2025-08-20_163705_Mat] ([1] browsable assets)...
+[2025.09.22-19.12.25:904][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Screenshot_2025-08-20_163705_Mat]
+[2025.09.22-19.12.25:906][456]LogSavePackage: Moving output files for package: /Game/Screenshot_2025-08-20_163705_Mat
+[2025.09.22-19.12.25:906][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/Screenshot_2025-08-20_163705_MatAA4076C744DAA0E1ABF7CFB4FE3A81EF.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/Screenshot_2025-08-20_163705_Mat.uasset'
+[2025.09.22-19.12.25:908][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Screenshot_2025-08-20_163750_Mat] ([1] browsable assets)...
+[2025.09.22-19.12.25:908][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Screenshot_2025-08-20_163750_Mat]
+[2025.09.22-19.12.25:910][456]LogSavePackage: Moving output files for package: /Game/Screenshot_2025-08-20_163750_Mat
+[2025.09.22-19.12.25:910][456]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/Screenshot_2025-08-20_163750_Mat3D88E4E042856DE6C78A4E87F5FD9468.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/Screenshot_2025-08-20_163750_Mat.uasset'
+[2025.09.22-19.12.25:957][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.945 ms (total: 2.59 sec)
+[2025.09.22-19.12.26:061][456]LogContentValidation: Display: Starting to validate 31 assets
+[2025.09.22-19.12.26:061][456]LogContentValidation: Enabled validators:
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-19.12.26:061][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-19.12.26:061][456]AssetCheck: /Game/Game_World Validating asset
+[2025.09.22-19.12.26:061][456]AssetCheck: /Game/metal_texture_Mat Validating asset
+[2025.09.22-19.12.26:061][456]AssetCheck: /Game/Screenshot_2025-08-20_163705_Mat Validating asset
+[2025.09.22-19.12.26:061][456]AssetCheck: /Game/Screenshot_2025-08-20_163750_Mat Validating asset
+[2025.09.22-19.12.26:094][456]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-19.12.32:769][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.22-19.12.32:871][853]LogStall: Shutdown...
+[2025.09.22-19.12.32:871][853]LogStall: Shutdown complete.
+[2025.09.22-19.12.33:090][853]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-19.12.33:090][853]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.33:090][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.33:406][853]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.33:406][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.33:523][853]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.33:523][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.33:622][853]LogSlate: Window 'GADE_2B_1 - Unreal Editor' being destroyed
+[2025.09.22-19.12.34:189][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.22-19.12.34:213][853]Cmd: QUIT_EDITOR
+[2025.09.22-19.12.34:215][854]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.22-19.12.34:231][854]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.22-19.12.34:234][854]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.22-19.12.34:234][854]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.22-19.12.34:371][854]LogWorld: UWorld::CleanupWorld for Game_World, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:372][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:372][854]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Game_World.Game_World
+[2025.09.22-19.12.34:430][854]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.22-19.12.34:431][854]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.22-19.12.34:439][854]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.22-19.12.34:460][854]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:460][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:463][854]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:464][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:467][854]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:467][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:471][854]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:471][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:475][854]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:475][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:477][854]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:477][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:481][854]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:481][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:484][854]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:484][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:487][854]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:487][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:490][854]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:490][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:497][854]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:497][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:500][854]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-19.12.34:501][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-19.12.34:516][854]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.22-19.12.34:516][854]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.22-19.12.34:530][854]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.22-19.12.35:012][854]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.22-19.12.35:012][854]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.22-19.12.35:012][854]LogAudio: Display: Audio Device unregistered from world 'Game_World'.
+[2025.09.22-19.12.35:012][854]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.22-19.12.35:013][854]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.22-19.12.35:020][854]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.22-19.12.35:050][854]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.22-19.12.35:051][854]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.22-19.12.35:056][854]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2025.09.22-19.12.35:067][854]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.22-19.12.35:067][854]LogExit: Preparing to exit.
+[2025.09.22-19.12.35:162][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.22-19.12.35:166][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:167][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:172][854]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-19.12.35:899][854]LogEditorDataStorage: Deinitializing
+[2025.09.22-19.12.36:319][854]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.22-19.12.36:564][854]LogExit: Editor shut down
+[2025.09.22-19.12.36:587][854]LogExit: Transaction tracking system shut down
+[2025.09.22-19.12.38:059][854]LogExit: Object subsystem successfully closed.
+[2025.09.22-19.12.38:126][854]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.22-19.12.38:542][854]LogMemoryProfiler: Shutdown
+[2025.09.22-19.12.38:543][854]LogNetworkingProfiler: Shutdown
+[2025.09.22-19.12.38:543][854]LoadingProfiler: Shutdown
+[2025.09.22-19.12.38:544][854]LogTimingProfiler: Shutdown
+[2025.09.22-19.12.38:552][854]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.22-19.12.38:552][854]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.22-19.12.39:369][854]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.22-19.12.39:396][854]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.22-19.12.39:396][854]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0469EA7C-400C-11E0-6C32-D496CB3C4E10%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=0b39edf942c46dee43c680b03a267f3c%7C9d374f8d9ff549d08c7963af6a3f443a%7C91f8f045-cc3b-4bdd-ab1c-93ef4cecdf74&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.22-19.12.40:470][854]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.22-19.12.40:482][854]RenderDocPlugin: plugin has been unloaded.
+[2025.09.22-19.12.40:482][854]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.22-19.12.40:489][854]LogXGEController: Cleaning working directory: C:/Users/letlh/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.09.22-19.12.40:508][854]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.22-19.12.40:508][854]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.22-19.12.40:509][854]LogPakFile: Destroying PakPlatformFile
+[2025.09.22-19.12.41:439][854]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.22-19.12.41:512][854]LogExit: Exiting.
+[2025.09.22-19.12.41:568][854]Log file closed, 09/22/25 21:12:41
