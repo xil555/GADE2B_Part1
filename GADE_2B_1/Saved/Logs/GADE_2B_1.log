@@ -2737,3 +2737,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.26-20.44.46:836][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Project/Props/Pickups/BP_Revolver_PickupWeaponPickup_Child1_Auto4
 [2025.09.26-20.44.46:837][625]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/BP_Revolver_PickupWeaponPickup_CF74D8EA7489146F89E082DBA76C36C9F.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/Autosaves/Game/_Project/Props/Pickups/BP_Revolver_PickupWeaponPickup_Child1_Auto4.uasset'
 [2025.09.26-20.44.46:838][625]LogFileHelpers: Auto-saving content packages took 0.032
+[2025.09.26-20.48.37:431][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Project/Props/Pickups/BP_PickupMaster.BP_PickupMaster
+[2025.09.26-20.48.37:431][427]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.09.26-20.49.47:169][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3245.868652
+[2025.09.26-20.49.47:633][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-20.49.47:633][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3246.314941, Update Interval: 359.265717
+[2025.09.26-20.54.47:491][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.26-20.54.47:494][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game_World' took 0.059
+[2025.09.26-20.54.47:494][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Animation-Controller/BP_Maria_Character] ([2] browsable assets)...
+[2025.09.26-20.54.47:505][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Animation-Controller/BP_Maria_Character.BP_Maria_Character]
+[2025.09.26-20.54.47:505][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Animation-Controller/BP_Maria_Character]
+[2025.09.26-20.54.47:567][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player_Animation-Controller/BP_Maria_Character_Auto5
+[2025.09.26-20.54.47:567][479]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/BP_Maria_Character_Auto5846CA15A463C46526E5645B4BCB07E08.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/Autosaves/Game/Player_Animation-Controller/BP_Maria_Character_Auto5.uasset'
+[2025.09.26-20.54.47:569][479]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.09.26-20.56.20:696][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3639.399414
+[2025.09.26-20.56.22:029][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-20.56.22:029][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3640.399658, Update Interval: 303.938721
+[2025.09.26-20.57.30:530][969]LogDerivedDataCache: C:/Users/letlh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.26-21.01.58:622][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3977.326904
+[2025.09.26-21.01.59:622][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.01.59:622][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3977.993652, Update Interval: 332.000488
+[2025.09.26-21.08.22:022][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4360.725098
+[2025.09.26-21.08.23:356][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.08.23:356][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4361.725098, Update Interval: 306.769623
+[2025.09.26-21.13.18:054][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-21.13.18:135][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Animation-Controller/BP_Maria_Character] ([2] browsable assets)...
+[2025.09.26-21.13.18:135][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Animation-Controller/BP_Maria_Character]
+[2025.09.26-21.13.18:198][930]LogSavePackage: Moving output files for package: /Game/Player_Animation-Controller/BP_Maria_Character
+[2025.09.26-21.13.18:199][930]LogSavePackage: Moving '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Saved/BP_Maria_Character1819F38F41CC022876DCFA921C6684B7.tmp' to '../../../../../../Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/Player_Animation-Controller/BP_Maria_Character.uasset'
+[2025.09.26-21.13.18:214][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.042 ms (total: 1.58 sec)
+[2025.09.26-21.13.18:298][930]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-21.13.18:299][930]LogContentValidation: Enabled validators:
+[2025.09.26-21.13.18:299][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-21.13.18:299][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-21.13.18:299][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-21.13.18:299][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-21.13.18:300][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-21.13.18:300][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-21.13.18:300][930]AssetCheck: /Game/Player_Animation-Controller/BP_Maria_Character Validating asset
+[2025.09.26-21.14.09:471][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4708.175781
+[2025.09.26-21.14.10:471][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.14.10:471][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4708.842285, Update Interval: 354.931488
+[2025.09.26-21.20.42:542][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5101.237793
+[2025.09.26-21.20.43:543][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.20.43:543][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5101.903809, Update Interval: 342.597137
+[2025.09.26-21.27.08:619][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5487.306152
+[2025.09.26-21.27.09:619][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.27.09:619][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5487.972656, Update Interval: 333.569763
+[2025.09.26-21.33.39:020][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5877.708984
+[2025.09.26-21.33.40:019][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-21.33.40:019][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5878.374512, Update Interval: 335.952026
