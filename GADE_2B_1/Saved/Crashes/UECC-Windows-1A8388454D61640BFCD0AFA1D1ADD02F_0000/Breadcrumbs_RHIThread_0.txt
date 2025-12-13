@@ -1,8 +1,0 @@
-Breadcrumbs 'RHIThread'
- - ReflectionEnvironment
- - ReflectionIndirect
- - RenderDeferredLighting
- - Scene
- - RenderGraphExecute - /ViewFamilies
- - SceneRender - ViewFamilies
- - Frame 343055
