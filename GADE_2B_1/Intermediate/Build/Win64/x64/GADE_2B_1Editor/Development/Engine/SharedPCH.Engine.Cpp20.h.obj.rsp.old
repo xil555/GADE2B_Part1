@@ -1,4 +1,8 @@
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.cpp"
+<<<<<<< HEAD
+"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.cpp"
+=======
+"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.cpp"
+>>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06
 /I "."
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Engine/UHT"
 /I "Runtime/Engine/Classes"
@@ -309,17 +313,30 @@
 /external:I "ThirdParty/LibTiff/Source/Win64"
 /external:I "ThirdParty/LibTiff/Source"
 /external:I "ThirdParty/OpenGL"
-/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/INCLUDE"
+<<<<<<< HEAD
+/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/INCLUDE"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"
 /Yc"SharedPCH.Engine.Cpp20.h"
-/Fp"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj"
-/experimental:log "C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.sarif"
-/sourceDependencies "C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.dep.json"
+/Fp"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj"
+/experimental:log "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.sarif"
+/sourceDependencies "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.dep.json"
+=======
+/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/INCLUDE"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/um"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/winrt"
+/Yc"SharedPCH.Engine.Cpp20.h"
+/Fp"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj"
+/experimental:log "C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.sarif"
+/sourceDependencies "C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Engine/SharedPCH.Engine.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
+>>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06
 /Zc:inline
 /nologo
 /Oi

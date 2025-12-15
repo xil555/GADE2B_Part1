@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\letlh\\onedrive - advtech ltd\\documents\\gade2b_part1\\gade_2b_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gade_2b_1\\module.gade_2b_1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\letlh\\onedrive - advtech ltd\\documents\\gade2b_part1\\gade_2b_1\\intermediate\\build\\win64\\x64\\gade_2b_1editor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\letlh\\onedrive - advtech ltd\\documents\\gade2b_part1\\gade_2b_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gade_2b_1\\definitions.gade_2b_1.h",
+            "c:\\users\\letlh\\onedrive - advtech ltd\\documents\\gade2b_part1\\gade_2b_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gade_2b_1\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

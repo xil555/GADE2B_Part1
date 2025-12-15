@@ -20,15 +20,9 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-<<<<<<< HEAD
 /LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/lib/x64"
 /LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
 /LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
-=======
-/LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/lib/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/ucrt/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/um/x64"
->>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -42,22 +36,11 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-<<<<<<< HEAD
-"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Module.GADE_2B_1.cpp.obj"
 "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/GADE_2B_1.cpp.obj"
-"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/PerModuleInline.gen.cpp.obj"
 "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Default.rc2.res"
-=======
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/GADE_2B_1.cpp.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/PerModuleInline.gen.cpp.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Default.rc2.res"
->>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
-"../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -83,11 +66,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-<<<<<<< HEAD
 /OUT:"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Binaries/Win64/UnrealEditor-GADE_2B_1.dll"
 /PDB:"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Binaries/Win64/UnrealEditor-GADE_2B_1.pdb"
-=======
-/OUT:"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Binaries/Win64/UnrealEditor-GADE_2B_1.dll"
-/PDB:"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Binaries/Win64/UnrealEditor-GADE_2B_1.pdb"
->>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06
 /ignore:4078

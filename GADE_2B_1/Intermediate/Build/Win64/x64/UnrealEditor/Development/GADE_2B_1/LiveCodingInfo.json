@@ -1,5 +1,9 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.GADE_2B_1.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"GADE_2B_1.cpp.obj"
+		]
 	}
 }

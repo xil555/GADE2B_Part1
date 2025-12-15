@@ -6,16 +6,8 @@
 /NAME:"UnrealEditor-GADE_2B_1.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-<<<<<<< HEAD
-"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Module.GADE_2B_1.cpp.obj"
 "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/GADE_2B_1.cpp.obj"
-"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/PerModuleInline.gen.cpp.obj"
 "C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Default.rc2.res"
 /OUT:"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/UnrealEditor-GADE_2B_1.lib"
-=======
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/GADE_2B_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/GADE_2B_1.cpp.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/PerModuleInline.gen.cpp.obj"
-"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/Default.rc2.res"
-/OUT:"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/GADE_2D_PART1/GADE2B_Part1/GADE_2B_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE_2B_1/UnrealEditor-GADE_2B_1.lib"
->>>>>>> 1383c53725d9e89f828aa7b8d4078de5342d3e06

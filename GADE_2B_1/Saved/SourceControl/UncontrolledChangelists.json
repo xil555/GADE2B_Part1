@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/HUD/Enemy_Health1.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/BP_AI.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/Player_Animation-Controller/BP_Maria_Character.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/Enemy_Interface2.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/HUD/BP_Projectile.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/HUD/Enemy_Health.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/_Project/Props/interfaces/Enemy_Interface.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/2/IN/0NBBCM1LPQ19EUZEED1ZHR.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/7/LD/TVO6BJLP0QSZRA2KA8GC88.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/6/PJ/XCLLRJZ266L7KIKTKHTDXU.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/E/VJ/HCREHQLRZX1V9WHBWWI1DN.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/3/JQ/80NDZ6HGMHTWPZ4JDAWWPX.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/9/UF/IGQ208CWPYLAIFX13G1I7J.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/B/W3/DAHZV3GMO1LPM49XYVWE3N.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/C/QS/RX0XIU2HHQDLUO7RWCYVC8.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/__ExternalActors__/Game_World/1/Q9/1F5NK7AEFGWA4DTJWYJ1DJ.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/Game_World.umap",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/Mannie_Enemy/BP_Enemy.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/AI/BP_BotEnemyCharacter.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/Mannie_Enemy/BP_Enemy3.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/BP_AI2.uasset",
+				"C:/Users/letlh/OneDrive - ADvTECH Ltd/Documents/GADE2B_Part1/GADE_2B_1/Content/AIEnemies/BP_AI3.uasset"
+			]
+		}
+	]
+}
